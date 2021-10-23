@@ -1,0 +1,491 @@
+team_abb,raptor_pull_team,raptor_pull_id,link,raptor_pull,g_2021,mp_2021, pct_min_2021 , pct_exp_min_2022 , exp_min_2022 
+ATL,Atlanta Hawks,huertke01,kevin-huerter,0.548872602,69,2126,0.12,0.12,2421
+ATL,Atlanta Hawks,youngtr01,trae-young,2.684946945,63,2125,0.12,0.12,2420
+ATL,Atlanta Hawks,capelca01,clint-capela,3.996875719,63,1898,0.11,0.11,2162
+ATL,Atlanta Hawks,collijo01,john-collins,1.867394383,63,1848,0.11,0.11,2105
+ATL,Atlanta Hawks,bogdabo01,bogdan-bogdanovic,2.897400265,44,1305,0.08,0.1,1968
+ATL,Atlanta Hawks,reddica01,cam-reddish,-0.376152059,26,750,0.04,0.07,1378
+ATL,Atlanta Hawks,gallida01,danilo-gallinari,0.845049691,51,1222,0.07,0.07,1400
+ATL,Atlanta Hawks,okongon01,onyeka-okongwu,-0.744079961,50,601,0.04,0.06,1181
+ATL,Atlanta Hawks,wrighde01,delon-wright,1.653339714,36,1052,0.06,0.06,1181
+ATL,Atlanta Hawks,huntede01,deandre-hunter,0.393440329,23,678,0.04,0.05,984
+ATL,Atlanta Hawks,willilo02,lou-williams,-2.476796858,42,918,0.05,0.05,984
+ATL,Atlanta Hawks,dienggo01,gorgui-dieng,0.015401449,16,181,0.01,0.03,590
+ATL,Atlanta Hawks,hillso01,solomon-hill,-2.670182036,71,1513,0.09,0.03,492
+ATL,Atlanta Hawks,luwawti01,timothe-luwawu-cabarrot,-0.947312604,58,1050,0.06,0.02,295
+ATL,Atlanta Hawks,goodwbr01,brandon-goodwin,-2.448147548,47,620,0.04,0.01,118
+ATL,Atlanta Hawks,hamiljo03,johnny-hamilton,-2.161498534,NA,NA,0,0,0
+ATL,Atlanta Hawks,johnsja05,jalen-johnson,-1.665897086,NA,NA,0,0,0
+ATL,Atlanta Hawks,jeffrda01,daquan-jeffries,-1.259125563,13,261,0.02,0,0
+BOS,Boston Celtics,brownja02,jaylen-brown,2.504655573,58,1999,0.12,0.13,2460
+BOS,Boston Celtics,tatumja01,jayson-tatum,4.200833615,64,2290,0.13,0.13,2460
+BOS,Boston Celtics,pritcpa01,payton-pritchard,-0.646681206,66,1268,0.07,0.09,1673
+BOS,Boston Celtics,smartma01,marcus-smart,2.296410873,48,1581,0.09,0.09,1801
+BOS,Boston Celtics,schrode01,dennis-schroder,0.175330018,61,1956,0.11,0.09,1732
+BOS,Boston Celtics,williro04,robert-williams-iii,0.592656827,52,985,0.06,0.08,1574
+BOS,Boston Celtics,richajo01,josh-richardson,-0.302046169,59,1790,0.1,0.08,1535
+BOS,Boston Celtics,nesmiaa01,aaron-nesmith,-1.014575081,46,669,0.04,0.07,1279
+BOS,Boston Celtics,horfoal01,al-horford,1.022583885,28,782,0.05,0.07,1378
+BOS,Boston Celtics,willigr01,grant-williams,-1.601281555,63,1138,0.07,0.07,1296
+BOS,Boston Celtics,kanteen01,enes-kanter,-0.30528599,72,1758,0.1,0.07,1378
+BOS,Boston Celtics,arcidry01,ryan-arcidiacono,0.016957916,44,450,0.03,0.03,513
+BOS,Boston Celtics,langfro01,romeo-langford,-0.1295558,18,283,0.02,0.02,305
+BOS,Boston Celtics,hernaju01,juancho-hernangomez,-1.881694499,52,900,0.05,0.02,295
+BOS,Boston Celtics,pinsoth01,theo-pinson,-3.089010902,17,34,0,0,0
+BOS,Boston Celtics,fernabr01,bruno-fernando,-4.75757795,33,226,0.01,0,0
+BOS,Boston Celtics,parkeja01,jabari-parker,-0.098960899,10,138,0.01,0,0
+BOS,Boston Celtics,mathega01,garrison-mathews,0.594067626,64,1038,0.06,0,0
+BRK,Brooklyn Nets,hardeja01,james-harden,6.287308644,8,290,0.02,0.13,2460
+BRK,Brooklyn Nets,harrijo01,joe-harris,0.630188734,69,2141,0.12,0.12,2438
+BRK,Brooklyn Nets,duranke01,kevin-durant,3.133274481,35,1157,0.07,0.11,2066
+BRK,Brooklyn Nets,millspa01,paul-millsap,-0.199434114,56,1162,0.07,0.09,1673
+BRK,Brooklyn Nets,millspa02,patty-mills,-0.691078537,68,1685,0.1,0.09,1752
+BRK,Brooklyn Nets,claxtni01,nicolas-claxton,1.614067883,32,594,0.03,0.08,1476
+BRK,Brooklyn Nets,griffbl01,blake-griffin,0.333480452,26,560,0.03,0.08,1476
+BRK,Brooklyn Nets,brownbr01,bruce-brown,0.741596626,65,1451,0.08,0.08,1653
+BRK,Brooklyn Nets,johnsja01,james-johnson,-3.108376004,29,504,0.03,0.06,1082
+BRK,Brooklyn Nets,bembrde01,deandre-bembry,-1.204083267,51,972,0.06,0.06,1107
+BRK,Brooklyn Nets,thomaca02,cameron-thomas,-4.580996094,NA,NA,0,0.05,895
+BRK,Brooklyn Nets,aldrila01,lamarcus-aldridge,-1.660831014,5,130,0.01,0.04,787
+BRK,Brooklyn Nets,carteje01,jevon-carter,-0.230965552,60,717,0.04,0.04,817
+BRK,Brooklyn Nets,cacokde01,devontae-cacok,-1.233545283,20,98,0.01,0,0
+BRK,Brooklyn Nets,irvinky01,kyrie-irving,4.260286556,54,1886,0.11,0,0
+BRK,Brooklyn Nets,sharpda01,dayron-sharpe,-2.105529829,NA,NA,0,0,0
+CHH,Charlotte Hornets,roziete01,terry-rozier,0.306177217,69,2383,0.14,0.13,2480
+CHH,Charlotte Hornets,ballla01,lamelo-ball,2.733646213,51,1469,0.09,0.11,2165
+CHH,Charlotte Hornets,bridgmi02,miles-bridges,-0.59222654,66,1932,0.11,0.11,2200
+CHH,Charlotte Hornets,washipj01,pj-washington,-0.922937685,64,1954,0.11,0.11,2225
+CHH,Charlotte Hornets,oubreke01,kelly-oubre-jr,-0.735151879,55,1687,0.1,0.1,1921
+CHH,Charlotte Hornets,haywago01,gordon-hayward,0.210897275,44,1496,0.09,0.09,1704
+CHH,Charlotte Hornets,plumlma01,mason-plumlee,-1.291252064,56,1499,0.09,0.08,1574
+CHH,Charlotte Hornets,iwundwe01,wes-iwundu,-3.2513195,18,251,0.02,0.06,1082
+CHH,Charlotte Hornets,mcdanja01,jalen-mcdaniels,-1.931197621,47,904,0.05,0.05,886
+CHH,Charlotte Hornets,smithis01,ish-smith,-2.012262175,44,924,0.05,0.05,886
+CHH,Charlotte Hornets,bouknja01,james-bouknight,-3.392423272,NA,NA,0,0.05,984
+CHH,Charlotte Hornets,martico01,cody-martin,0.128147428,52,849,0.05,0.04,787
+CHH,Charlotte Hornets,careyve01,vernon-carey-jr,-3.524900222,19,115,0.01,0.03,492
+CHH,Charlotte Hornets,joneska01,kai-jones,-2.738813699,NA,NA,0,0.02,295
+CHH,Charlotte Hornets,thorjt01,jt-thor,-3.443230462,NA,NA,0,0,0
+CHI,Chicago Bulls,lavinza01,zach-lavine,1.477475193,58,2034,0.12,0.13,2460
+CHI,Chicago Bulls,whiteco01,coby-white,-1.216217441,69,2156,0.13,0.13,2455
+CHI,Chicago Bulls,vucevni01,nikola-vucevic,2.100847893,26,848,0.05,0.12,2362
+CHI,Chicago Bulls,willipa01,patrick-williams,-1.845638745,71,1983,0.12,0.11,2125
+CHI,Chicago Bulls,carusal01,alex-caruso,2.393435112,58,1216,0.07,0.1,1909
+CHI,Chicago Bulls,balllo01,lonzo-ball,2.514744095,55,1747,0.1,0.1,1990
+CHI,Chicago Bulls,derozde01,demar-derozan,-1.733515013,61,2056,0.12,0.1,1968
+CHI,Chicago Bulls,browntr01,troy-brown-jr,-1.485440681,21,287,0.02,0.08,1496
+CHI,Chicago Bulls,jonesde02,derrick-jones-jr,-0.175955368,58,1318,0.08,0.07,1417
+CHI,Chicago Bulls,bradlto01,tony-bradley,0.196688616,22,397,0.02,0.05,984
+CHI,Chicago Bulls,johnsst04,stanley-johnson,-2.281650844,61,1006,0.06,0.02,295
+CHI,Chicago Bulls,thomama02,matt-thomas,-2.64748149,19,134,0.01,0.01,216
+CHI,Chicago Bulls,cookty01,tyler-cook,-5.799840926,4,17,0,0,0
+CHI,Chicago Bulls,greenja02,javonte-green,-0.236146688,16,128,0.01,0,0
+CHI,Chicago Bulls,johnsal02,alize-johnson,-0.298980453,18,189,0.01,0,0
+CHI,Chicago Bulls,greenja02,javonte-green,-0.236146688,25,345,0.02,0,0
+CHI,Chicago Bulls,dosunay01,ayo-dosunmu,-2.033205153,NA,NA,0,0,0
+CHI,Chicago Bulls,simonma01,marko-simonovic,-4.753494608,NA,NA,0,0,0
+CLE,Cleveland Cavaliers,okorois01,isaac-okoro,-1.998821084,67,2173,0.13,0.13,2475
+CLE,Cleveland Cavaliers,allenja01,jarrett-allen,0.361680186,12,320,0.02,0.12,2263
+CLE,Cleveland Cavaliers,sextoco01,collin-sexton,-1.492453953,60,2115,0.12,0.12,2263
+CLE,Cleveland Cavaliers,garlada01,darius-garland,-1.041257178,54,1790,0.1,0.1,2039
+CLE,Cleveland Cavaliers,mobleev01,evan-mobley,-1.996566323,NA,NA,0,0.09,1771
+CLE,Cleveland Cavaliers,loveke01,kevin-love,-1.416565001,25,622,0.04,0.08,1476
+CLE,Cleveland Cavaliers,markkla01,lauri-markkanen,-0.938520888,51,1317,0.08,0.08,1500
+CLE,Cleveland Cavaliers,rubiori01,ricky-rubio,0.306866677,68,1772,0.1,0.08,1476
+CLE,Cleveland Cavaliers,osmande01,cedi-osman,-2.259743441,59,1510,0.09,0.07,1437
+CLE,Cleveland Cavaliers,windldy01,dylan-windler,-1.566663562,31,513,0.03,0.06,1200
+CLE,Cleveland Cavaliers,wadede01,dean-wade,-2.281196835,63,1212,0.07,0.04,689
+CLE,Cleveland Cavaliers,valende01,denzel-valentine,-0.806008866,62,1036,0.06,0.02,433
+CLE,Cleveland Cavaliers,pangoke01,kevin-pangos,-1.658267495,NA,NA,0,0.02,394
+CLE,Cleveland Cavaliers,guyky01,kyle-guy,-1.59937605,31,235,0.01,0.01,268
+CLE,Cleveland Cavaliers,stevela01,lamar-stevens,-2.763417133,40,499,0.03,0,0
+CLE,Cleveland Cavaliers,mitchell-ballock-1,mitch-ballock,-1.787352766,NA,NA,0,0,0
+DAL,Dallas Mavericks,doncilu01,luka-doncic,6.932540471,66,2262,0.13,0.13,2458
+DAL,Dallas Mavericks,hardati02,tim-hardaway-jr,1.04736169,70,1985,0.12,0.11,2165
+DAL,Dallas Mavericks,brunsja01,jalen-brunson,0.977133263,68,1697,0.1,0.1,1933
+DAL,Dallas Mavericks,porzikr01,kristaps-porzingis,1.724958523,43,1327,0.08,0.09,1673
+DAL,Dallas Mavericks,finnedo01,dorian-finney-smith,1.050582105,60,1921,0.11,0.09,1771
+DAL,Dallas Mavericks,bullore01,reggie-bullock,-0.875859233,65,1949,0.11,0.08,1476
+DAL,Dallas Mavericks,klebima01,maxi-kleber,-0.666300317,50,1341,0.08,0.07,1378
+DAL,Dallas Mavericks,greenjo02,josh-green,-2.660266873,39,445,0.03,0.06,1181
+DAL,Dallas Mavericks,brownst02,sterling-brown,-1.817073937,51,1229,0.07,0.06,1082
+DAL,Dallas Mavericks,brownmo01,moses-brown,-2.90573586,43,920,0.05,0.05,1048
+DAL,Dallas Mavericks,caulewi01,willie-cauley-stein,0.009076497,53,906,0.05,0.05,1032
+DAL,Dallas Mavericks,poweldw01,dwight-powell,0.316214123,58,966,0.06,0.05,945
+DAL,Dallas Mavericks,marjabo01,boban-marjanovic,-1.668664049,33,271,0.02,0.03,590
+DAL,Dallas Mavericks,burketr01,trey-burke,-0.303587489,62,911,0.05,0.03,590
+DAL,Dallas Mavericks,ntilila01,frank-ntilikina,-0.429363712,33,322,0.02,0.02,295
+DAL,Dallas Mavericks,terryty01,tyrell-terry,-1.195166861,11,56,0,0,64
+DEN,Denver Nuggets,jokicni01,nikola-jokic,8.669798382,72,2488,0.14,0.13,2558
+DEN,Denver Nuggets,portemi01,michael-porter-jr,2.829776934,61,1912,0.11,0.12,2362
+DEN,Denver Nuggets,gordoaa01,aaron-gordon,-0.564116384,25,648,0.04,0.1,1870
+DEN,Denver Nuggets,bartowi01,will-barton,-1.006338413,56,1736,0.1,0.09,1673
+DEN,Denver Nuggets,greenje02,jeff-green,-1.854700283,68,1835,0.11,0.09,1673
+DEN,Denver Nuggets,hylanbo01,nahshon-hyland,-2.28500684,NA,NA,0,0.09,1673
+DEN,Denver Nuggets,campafa01,facundo-campazzo,1.387125312,65,1425,0.08,0.08,1476
+DEN,Denver Nuggets,greenja01,jamychal-green,-2.204702562,58,1120,0.07,0.07,1276
+DEN,Denver Nuggets,morrimo01,monte-morris,-0.557188462,47,1196,0.07,0.07,1362
+DEN,Denver Nuggets,riverau01,austin-rivers,-2.25688522,21,442,0.03,0.06,1114
+DEN,Denver Nuggets,doziepj01,pj-dozier,0.169549865,50,1088,0.06,0.04,689
+DEN,Denver Nuggets,murraja01,jamal-murray,2.683238327,48,1704,0.1,0.04,787
+DEN,Denver Nuggets,bolbo01,bol-bol,-3.207473481,32,160,0.01,0.02,394
+DEN,Denver Nuggets,cancavl01,vlatko-cancar,-2.747285924,41,281,0.02,0.02,320
+DEN,Denver Nuggets,nnajize01,zeke-nnaji,-3.710089969,42,397,0.02,0.02,452
+DEN,Denver Nuggets,blackta01,tarik-black,-2.631287074,NA,NA,0,0,0
+DEN,Denver Nuggets,reedda01,davon-reed,-1.789808176,NA,NA,0,0,0
+DET,Detroit Pistons,beysa01,saddiq-bey,-2.283264081,70,1909,0.11,0.11,2174
+DET,Detroit Pistons,grantje01,jerami-grant,-0.554762174,54,1829,0.11,0.11,2165
+DET,Detroit Pistons,olynyke01,kelly-olynyk,0.498189572,43,1157,0.07,0.1,1870
+DET,Detroit Pistons,stewais01,isaiah-stewart,0.468824205,68,1455,0.08,0.1,1870
+DET,Detroit Pistons,cunnica01,cade-cunningham,-1.786016567,NA,NA,0,0.1,2047
+DET,Detroit Pistons,jacksjo02,josh-jackson,-0.418004494,62,1560,0.09,0.09,1777
+DET,Detroit Pistons,josepco01,cory-joseph,-0.697399918,19,502,0.03,0.08,1574
+DET,Detroit Pistons,hayeski01,killian-hayes,-4.141583375,26,670,0.04,0.08,1574
+DET,Detroit Pistons,diallha01,hamidou-diallo,-1.580740683,20,465,0.03,0.07,1378
+DET,Detroit Pistons,leesa01,saben-lee,-1.842764904,48,781,0.05,0.05,889
+DET,Detroit Pistons,jacksfr01,frank-jackson,-2.086469825,40,738,0.04,0.04,841
+DET,Detroit Pistons,lylestr01,trey-lyles,-2.932970574,23,358,0.02,0.02,408
+DET,Detroit Pistons,cunnija01,jared-cunningham,-1.741524715,NA,NA,0,0.02,295
+DET,Detroit Pistons,liveris01,isaiah-livers,-2.599435419,NA,NA,0,0.02,295
+DET,Detroit Pistons,mcgruro01,rodney-mcgruder,-1.128515684,16,194,0.01,0.01,221
+DET,Detroit Pistons,stanlca01,cassius-stanley,-1.004975228,24,93,0.01,0.01,106
+DET,Detroit Pistons,garzalu01,luka-garza,-2.487488067,NA,NA,0,0.01,197
+GSW,Golden State Warriors,curryst01,stephen-curry,5.411801729,63,2152,0.13,0.13,2451
+GSW,Golden State Warriors,greendr01,draymond-green,2.157266807,63,1982,0.12,0.12,2257
+GSW,Golden State Warriors,wiggian01,andrew-wiggins,-0.406996141,71,2364,0.14,0.11,2106
+GSW,Golden State Warriors,poolejo01,jordan-poole,-1.772475826,51,988,0.06,0.1,1870
+GSW,Golden State Warriors,looneke01,kevon-looney,-0.978880734,61,1161,0.07,0.07,1322
+GSW,Golden State Warriors,porteot01,otto-porter-jr,-0.032243777,25,540,0.03,0.06,1082
+GSW,Golden State Warriors,leeda03,damion-lee,0.55749225,57,1079,0.06,0.06,1229
+GSW,Golden State Warriors,toscaju01,juan-toscano-anderson,-0.53467297,53,1107,0.06,0.06,1082
+GSW,Golden State Warriors,iguodan01,andre-iguodala,-1.896831001,63,1339,0.08,0.06,1082
+GSW,Golden State Warriors,moodymo01,moses-moody,-3.340512748,NA,NA,0,0.06,1082
+GSW,Golden State Warriors,thompkl01,klay-thompson,-1.69033686,NA,NA,0,0.06,1082
+GSW,Golden State Warriors,wisemja01,james-wiseman,-4.724258599,39,836,0.05,0.05,984
+GSW,Golden State Warriors,kuminjo01,jonathan-kuminga,-3.219001779,NA,NA,0,0.05,984
+GSW,Golden State Warriors,bjeline01,nemanja-bjelica,-1.257438724,11,156,0.01,0.03,630
+GSW,Golden State Warriors,muldemy01,mychal-mulder,-1.198404996,60,766,0.04,0.02,295
+GSW,Golden State Warriors,belljo01,jordan-bell,-3.022417121,1,15,0,0.01,98
+GSW,Golden State Warriors,paytoga02,gary-payton-ii,0.519710861,10,40,0,0,46
+GSW,Golden State Warriors,porteot01,otto-porter-jr,-0.032243777,3,66,0,0,0
+HOU,Houston Rockets,porteke02,kevin-porter-jr,-3.108939392,26,835,0.05,0.11,2066
+HOU,Houston Rockets,greenja05,jalen-green,-2.799626009,NA,NA,0,0.11,2208
+HOU,Houston Rockets,woodch01,christian-wood,1.309717588,41,1326,0.08,0.1,1968
+HOU,Houston Rockets,tateja01,jaesean-tate,0.16435949,70,2043,0.12,0.1,1968
+HOU,Houston Rockets,theisda01,daniel-theis,0.279787917,23,574,0.03,0.09,1673
+HOU,Houston Rockets,walljo01,john-wall,-2.246739971,40,1288,0.08,0.09,1673
+HOU,Houston Rockets,houseda01,danuel-house-jr,-3.019414279,36,932,0.05,0.08,1476
+HOU,Houston Rockets,sengual01,alperen-sengun,-3.291142849,NA,NA,0,0.08,1574
+HOU,Houston Rockets,gordoer01,eric-gordon,-3.199503401,27,789,0.05,0.07,1378
+HOU,Houston Rockets,augusdj01,dj-augustin,-2.55402616,37,713,0.04,0.06,1181
+HOU,Houston Rockets,nwabada01,david-nwaba,0.358561231,30,679,0.04,0.05,905
+HOU,Houston Rockets,martike04,kenyon-martin-jr,-3.052649123,45,1068,0.06,0.05,886
+HOU,Houston Rockets,brookar01,armoni-brooks,-1.642291253,20,520,0.03,0.03,592
+HOU,Houston Rockets,exumda01,dante-exum,0.138902221,6,116,0.01,0.01,132
+HOU,Houston Rockets,chrisjo01,josh-christopher,-3.074781437,NA,NA,0,0,0
+HOU,Houston Rockets,garubus01,usman-garuba,-1.475209481,NA,NA,0,0,0
+HOU,Houston Rockets,nixda01,daishen-nix,-3.994428114,NA,NA,0,0,0
+IND,Indiana Pacers,sabondo01,domantas-sabonis,1.810958613,62,2231,0.13,0.13,2541
+IND,Indiana Pacers,brogdma01,malcolm-brogdon,0.795403512,56,1930,0.11,0.11,2066
+IND,Indiana Pacers,turnemy01,myles-turner,1.716510274,47,1455,0.08,0.1,1870
+IND,Indiana Pacers,mccontj01,tj-mcconnell,0.602696296,69,1796,0.1,0.1,1927
+IND,Indiana Pacers,lambje01,jeremy-lamb,1.074734805,36,765,0.04,0.09,1732
+IND,Indiana Pacers,warretj01,tj-warren,-1.027521764,4,117,0.01,0.08,1574
+IND,Indiana Pacers,holidju01,justin-holiday,0.446164032,72,2183,0.13,0.08,1476
+IND,Indiana Pacers,craigto01,torrey-craig,-1.27981556,18,201,0.01,0.06,1102
+IND,Indiana Pacers,leverca01,caris-levert,0.63650554,35,1152,0.07,0.06,1181
+IND,Indiana Pacers,duartch01,chris-duarte,-0.656688615,NA,NA,0,0.06,1082
+IND,Indiana Pacers,jacksis01,isaiah-jackson,-1.235059354,NA,NA,0,0.06,1082
+IND,Indiana Pacers,bitadgo01,goga-bitadze,-0.360537818,45,561,0.03,0.05,984
+IND,Indiana Pacers,martike03,kelan-martin,-2.06008891,35,322,0.02,0.02,367
+IND,Indiana Pacers,brissos01,oshae-brissett,0.167687579,21,519,0.03,0.02,394
+IND,Indiana Pacers,hintona01,nate-hinton,-1.945375567,21,93,0.01,0.01,106
+IND,Indiana Pacers,wanambr01,brad-wanamaker,-2.161473483,22,428,0.03,0.01,197
+IND,Indiana Pacers,craigto01,torrey-craig,-1.27981556,32,602,0.04,0,0
+IND,Indiana Pacers,sykeske01,keifer-sykes,-1.763011596,NA,NA,0,0,0
+IND,Indiana Pacers,taylote01,terry-taylor,-1.994365931,NA,NA,0,0,0
+LAC,LA Clippers,georgpa01,paul-george,5.958242608,54,1821,0.11,0.12,2263
+LAC,LA Clippers,mannte01,terance-mann,0.638190499,67,1263,0.07,0.1,1870
+LAC,LA Clippers,jacksre01,reggie-jackson,0.803065101,67,1544,0.09,0.1,1968
+LAC,LA Clippers,morrima03,marcus-morris-sr,-0.803368869,57,1502,0.09,0.1,1870
+LAC,LA Clippers,batumni01,nicolas-batum,1.55542265,67,1835,0.11,0.1,1968
+LAC,LA Clippers,ibakase01,serge-ibaka,-0.029000253,41,955,0.06,0.09,1712
+LAC,LA Clippers,zubaciv01,ivica-zubac,1.114005854,72,1609,0.09,0.09,1832
+LAC,LA Clippers,kennalu01,luke-kennard,-1.567281192,63,1232,0.07,0.08,1496
+LAC,LA Clippers,bledser01,eric-bledsoe,-0.742101125,71,2111,0.12,0.06,1082
+LAC,LA Clippers,bostobr01,brandon-boston-jr,-3.600636546,NA,NA,0,0.05,886
+LAC,LA Clippers,johnske07,keon-johnson,-3.856553733,NA,NA,0,0.05,876
+LAC,LA Clippers,winslju01,justise-winslow,-1.663670449,26,507,0.03,0.03,577
+LAC,LA Clippers,gilesha01,harry-giles-iii,-3.268007962,38,348,0.02,0.02,396
+LAC,LA Clippers,leonaka01,kawhi-leonard,5.907636798,52,1773,0.1,0.02,394
+LAC,LA Clippers,prestja01,jason-preston,-2.554774719,NA,NA,0,0.02,295
+LAC,LA Clippers,harteis01,isaiah-hartenstein,0.439988562,16,287,0.02,0.01,197
+LAL,Los Angeles Lakers,westbru01,russell-westbrook,-0.864694595,65,2369,0.14,0.12,2263
+LAL,Los Angeles Lakers,davisan02,anthony-davis,5.058287327,36,1162,0.07,0.11,2066
+LAL,Los Angeles Lakers,jamesle01,lebron-james,4.442626743,45,1504,0.09,0.11,2165
+LAL,Los Angeles Lakers,nunnke01,kendrick-nunn,-0.341114019,56,1650,0.1,0.1,1879
+LAL,Los Angeles Lakers,howardw01,dwight-howard,-0.930257125,69,1196,0.07,0.09,1673
+LAL,Los Angeles Lakers,hortota01,talen-horton-tucker,-0.12579726,65,1304,0.08,0.09,1771
+LAL,Los Angeles Lakers,rondora01,rajon-rondo,-2.948141705,27,402,0.02,0.08,1476
+LAL,Los Angeles Lakers,ellinwa01,wayne-ellington,-1.366063224,46,1012,0.06,0.06,1153
+LAL,Los Angeles Lakers,bazemke01,kent-bazemore,-0.602069698,67,1333,0.08,0.06,1181
+LAL,Los Angeles Lakers,anthoca01,carmelo-anthony,-4.533440231,69,1690,0.1,0.06,1181
+LAL,Los Angeles Lakers,arizatr01,trevor-ariza,-0.74511531,30,841,0.05,0.05,984
+LAL,Los Angeles Lakers,monkma01,malik-monk,-1.833109742,42,878,0.05,0.05,1000
+LAL,Los Angeles Lakers,jordade01,deandre-jordan,-3.697252898,57,1246,0.07,0.02,394
+LAL,Los Angeles Lakers,reaveau01,austin-reaves,-2.231820093,NA,NA,0,0.02,394
+LAL,Los Angeles Lakers,oliveca01,cameron-oliver,-2.047524709,4,87,0.01,0.01,99
+LAL,Los Angeles Lakers,queentr01,trevelin-queen,-0.404194741,NA,NA,0,0,0
+MEM,Memphis Grizzlies,brookdi01,dillon-brooks,1.382260795,67,1997,0.12,0.12,2274
+MEM,Memphis Grizzlies,moranja01,ja-morant,0.088642342,63,2053,0.12,0.12,2381
+MEM,Memphis Grizzlies,jacksja02,jaren-jackson-jr,1.469431308,11,258,0.02,0.11,2145
+MEM,Memphis Grizzlies,anderky01,kyle-anderson,1.212885082,69,1887,0.11,0.11,2149
+MEM,Memphis Grizzlies,adamsst01,steven-adams,0.728274563,58,1605,0.09,0.1,1968
+MEM,Memphis Grizzlies,meltode01,deanthony-melton,2.284049986,52,1045,0.06,0.09,1732
+MEM,Memphis Grizzlies,clarkbr01,brandon-clarke,-0.112961603,59,1415,0.08,0.09,1771
+MEM,Memphis Grizzlies,banede01,desmond-bane,-0.508626976,68,1519,0.09,0.09,1769
+MEM,Memphis Grizzlies,tillmxa01,xavier-tillman-sr,-0.634555651,59,1085,0.06,0.06,1236
+MEM,Memphis Grizzlies,jonesty01,tyus-jones,-0.162717334,70,1222,0.07,0.04,787
+MEM,Memphis Grizzlies,culveja01,jarrett-culver,-1.472034036,34,499,0.03,0.03,482
+MEM,Memphis Grizzlies,konchjo01,john-konchar,1.029101635,43,575,0.03,0.03,492
+MEM,Memphis Grizzlies,willizi02,ziaire-williams,-3.924765945,NA,NA,0,0.02,295
+MEM,Memphis Grizzlies,merrisa01,sam-merrill,-0.294901325,30,233,0.01,0.01,197
+MEM,Memphis Grizzlies,dunnkr01,kris-dunn,0.599024528,4,45,0,0,0
+MEM,Memphis Grizzlies,aldamsa01,santi-aldama,-3.519976577,NA,NA,0,0,0
+MIA,Miami Heat,robindu01,duncan-robinson,0.84789863,72,2262,0.13,0.13,2576
+MIA,Miami Heat,adebaba01,bam-adebayo,1.447337211,64,2143,0.12,0.12,2441
+MIA,Miami Heat,butleji01,jimmy-butler,4.939300503,52,1745,0.1,0.11,2165
+MIA,Miami Heat,herroty01,tyler-herro,-0.49967686,54,1635,0.1,0.11,2165
+MIA,Miami Heat,lowryky01,kyle-lowry,2.44510459,46,1601,0.09,0.1,1968
+MIA,Miami Heat,tuckepj01,pj-tucker,-2.761768507,32,959,0.06,0.09,1771
+MIA,Miami Heat,morrima02,markieff-morris,-3.065932973,61,1200,0.07,0.09,1673
+MIA,Miami Heat,strusma01,max-strus,0.045418264,39,507,0.03,0.07,1279
+MIA,Miami Heat,dedmode01,dewayne-dedmon,-1.240888587,16,210,0.01,0.06,1181
+MIA,Miami Heat,vincega01,gabe-vincent,-0.815246938,50,655,0.04,0.05,886
+MIA,Miami Heat,okpalkz01,kz-okpala,-2.797144068,37,447,0.03,0.04,787
+MIA,Miami Heat,oladivi01,victor-oladipo,0.105743767,20,669,0.04,0.04,787
+MIA,Miami Heat,dru-smith-1,dru-smith,-1.108661372,NA,NA,0,0,0
+MIA,Miami Heat,hasleud01,udonis-haslem,-4.793953217,1,3,0,0,0
+MIA,Miami Heat,pottemi01,micah-potter,-3.184442468,NA,NA,0,0,0
+MIA,Miami Heat,rj-nembhard-1,rj-nembhard,-3.54569697,NA,NA,0,0,0
+MIA,Miami Heat,yurtsom01,omer-yurtseven,-2.789182813,NA,NA,0,0,0
+MIL,Milwaukee Bucks,middlkh01,khris-middleton,2.013717262,68,2269,0.13,0.13,2460
+MIL,Milwaukee Bucks,antetgi01,giannis-antetokounmpo,6.553240062,61,2013,0.12,0.12,2293
+MIL,Milwaukee Bucks,holidjr01,jrue-holiday,3.635733506,59,1907,0.11,0.11,2172
+MIL,Milwaukee Bucks,lopezbr01,brook-lopez,0.876107698,70,1902,0.11,0.11,2066
+MIL,Milwaukee Bucks,divindo01,donte-divincenzo,2.045877923,66,1814,0.11,0.1,1929
+MIL,Milwaukee Bucks,connapa01,pat-connaughton,0.577923998,69,1575,0.09,0.09,1673
+MIL,Milwaukee Bucks,allengr01,grayson-allen,-0.289808228,50,1259,0.07,0.07,1378
+MIL,Milwaukee Bucks,portibo01,bobby-portis,-0.044280155,66,1372,0.08,0.07,1378
+MIL,Milwaukee Bucks,hoodro01,rodney-hood,-3.069001234,38,726,0.04,0.06,1082
+MIL,Milwaukee Bucks,ojelese01,semi-ojeleye,-2.08212577,56,950,0.06,0.06,1082
+MIL,Milwaukee Bucks,hillge01,george-hill,0.099847742,14,369,0.02,0.05,886
+MIL,Milwaukee Bucks,nworajo01,jordan-nwora,-0.748584532,30,274,0.02,0.04,787
+MIL,Milwaukee Bucks,antetth01,thanasis-antetokounmpo,-1.103150746,57,551,0.03,0.03,492
+MIL,Milwaukee Bucks,watertr01,tremont-waters,-0.456512136,26,238,0.01,0,0
+MIN,Minnesota Timberwolves,edwaran01,anthony-edwards,-0.295729143,72,2314,0.13,0.13,2635
+MIN,Minnesota Timberwolves,russeda01,dangelo-russell,0.861272436,42,1196,0.07,0.1,1870
+MIN,Minnesota Timberwolves,townska01,karl-anthony-towns,4.024677313,50,1689,0.1,0.1,2007
+MIN,Minnesota Timberwolves,mcdanja02,jaden-mcdaniels,-1.520297415,63,1511,0.09,0.09,1721
+MIN,Minnesota Timberwolves,reidna01,naz-reid,-0.253560619,70,1347,0.08,0.08,1534
+MIN,Minnesota Timberwolves,beverpa01,patrick-beverley,1.524775164,37,832,0.05,0.07,1279
+MIN,Minnesota Timberwolves,beaslma01,malik-beasley,-0.559761031,37,1214,0.07,0.07,1383
+MIN,Minnesota Timberwolves,okogijo01,josh-okogie,0.183974933,59,1197,0.07,0.07,1363
+MIN,Minnesota Timberwolves,vandeja01,jarred-vanderbilt,1.393068978,64,1139,0.07,0.07,1297
+MIN,Minnesota Timberwolves,princta02,taurean-prince,-1.655361038,12,218,0.01,0.05,886
+MIN,Minnesota Timberwolves,mclaujo01,jordan-mclaughlin,-0.390044391,51,938,0.05,0.05,899
+MIN,Minnesota Timberwolves,bolmale01,leandro-bolmaro,-1.78955173,NA,NA,0,0.05,984
+MIN,Minnesota Timberwolves,laymaja01,jake-layman,-1.929564108,45,627,0.04,0.04,714
+MIN,Minnesota Timberwolves,nowelja01,jaylen-nowell,-1.613228665,42,759,0.04,0.03,590
+MIN,Minnesota Timberwolves,davised01,ed-davis,-2.862827298,23,299,0.02,0.02,341
+MIN,Minnesota Timberwolves,silvach01,chris-silva,-2.4819599,4,9,0,0.01,177
+MIN,Minnesota Timberwolves,isaiah-miller-1,isaiah-miller,-1.040791585,NA,NA,0,0,0
+NOP,New Orleans Pelicans,ingrabr01,brandon-ingram,1.202744812,61,2093,0.12,0.12,2384
+NOP,New Orleans Pelicans,grahade01,devonte-graham,1.583054184,55,1659,0.1,0.11,2125
+NOP,New Orleans Pelicans,valanjo01,jonas-valanciunas,1.792490337,62,1755,0.1,0.1,1988
+NOP,New Orleans Pelicans,alexani01,nickeil-alexander-walker,0.503571653,46,1007,0.06,0.09,1771
+NOP,New Orleans Pelicans,hayesja02,jaxson-hayes,-1.278033892,60,964,0.06,0.09,1673
+NOP,New Orleans Pelicans,willizi01,zion-williamson,3.272263307,61,2026,0.12,0.09,1830
+NOP,New Orleans Pelicans,lewiski01,kira-lewis-jr,-0.46155354,54,904,0.05,0.08,1476
+NOP,New Orleans Pelicans,hartjo01,josh-hart,0.946464774,47,1349,0.08,0.08,1536
+NOP,New Orleans Pelicans,satorto01,tomas-satoransky,-0.242791679,58,1307,0.08,0.06,1122
+NOP,New Orleans Pelicans,templga01,garrett-temple,-1.020009905,56,1528,0.09,0.06,1102
+NOP,New Orleans Pelicans,hernawi01,willy-hernangomez,-1.385457077,47,846,0.05,0.05,1023
+NOP,New Orleans Pelicans,marshna01,naji-marshall,-0.362221137,32,700,0.04,0.04,797
+NOP,New Orleans Pelicans,murphtr02,trey-murphy-iii,-2.452942868,NA,NA, -   ,0.04,787
+NOP,New Orleans Pelicans,louzama01,didi-louzada,-3.26056482,3,56,0,0,64
+NYK,New York Knicks,barrerj01,rj-barrett,0.292914953,72,2511,0.15,0.14,2755
+NYK,New York Knicks,randlju01,julius-randle,0.64991008,71,2667,0.15,0.14,2716
+NYK,New York Knicks,fournev01,evan-fournier,0.34579825,26,787,0.05,0.1,1968
+NYK,New York Knicks,quickim01,immanuel-quickley,0.376552627,64,1243,0.07,0.1,1870
+NYK,New York Knicks,robinmi01,mitchell-robinson,0.393515554,31,853,0.05,0.09,1673
+NYK,New York Knicks,rosede01,derrick-rose,0.194005397,35,937,0.05,0.08,1574
+NYK,New York Knicks,walkeke02,kemba-walker,3.304844088,43,1369,0.08,0.08,1559
+NYK,New York Knicks,burksal01,alec-burks,0.217902246,49,1255,0.07,0.07,1378
+NYK,New York Knicks,toppiob01,obi-toppin,-1.333465871,62,683,0.04,0.06,1181
+NYK,New York Knicks,noelne01,nerlens-noel,0.471962516,64,1547,0.09,0.05,984
+NYK,New York Knicks,gibsota01,taj-gibson,-0.177353928,45,936,0.05,0.04,787
+NYK,New York Knicks,knoxke01,kevin-knox-ii,-2.6947479,42,464,0.03,0.02,447
+NYK,New York Knicks,grimequ01,quentin-grimes,-1.752644918,NA,NA,0,0.02,394
+NYK,New York Knicks,mcbrimi01,miles-mcbride,-1.355438244,NA,NA,0,0.02,394
+NYK,New York Knicks,seldewa01,wayne-selden,-3.452659168,NA,NA,0,0,0
+NYK,New York Knicks,simmsaa01,aamir-simms,-2.403799532,NA,NA,0,0,0
+NYK,New York Knicks,walkemj01,mj-walker,-2.428879207,NA,NA,0,0,0
+OKC,Oklahoma City Thunder,gilgesh01,shai-gilgeous-alexander,1.280984475,35,1180,0.07,0.11,2165
+OKC,Oklahoma City Thunder,pokusal01,aleksej-pokusevski,-6.870280911,45,1090,0.06,0.1,1870
+OKC,Oklahoma City Thunder,giddejo01,josh-giddey,-1.930065009,NA,NA,0,0.1,1968
+OKC,Oklahoma City Thunder,dortlu01,luguentz-dort,1.075027465,52,1543,0.09,0.09,1757
+OKC,Oklahoma City Thunder,bazleda01,darius-bazley,-4.695579106,55,1714,0.1,0.09,1673
+OKC,Oklahoma City Thunder,maledth01,theo-maledon,-5.296113589,65,1778,0.1,0.09,1673
+OKC,Oklahoma City Thunder,robyis01,isaiah-roby,-4.651308055,61,1425,0.08,0.08,1623
+OKC,Oklahoma City Thunder,manntr01,tre-mann,-2.920538051,NA,NA,0,0.07,1279
+OKC,Oklahoma City Thunder,robinje02,jeremiah-robinson-earl,-1.987507366,NA,NA,0,0.07,1378
+OKC,Oklahoma City Thunder,jeromty01,ty-jerome,-1.606383185,33,788,0.05,0.06,1181
+OKC,Oklahoma City Thunder,favorde01,derrick-favors,1.578440401,68,1039,0.06,0.05,1045
+OKC,Oklahoma City Thunder,willike04,kenrich-williams,-0.205919559,66,1426,0.08,0.05,886
+OKC,Oklahoma City Thunder,deckga01,gabriel-deck,-1.594418482,10,212,0.01,0.04,689
+OKC,Oklahoma City Thunder,muscami01,mike-muscala,-0.709889588,35,645,0.04,0.03,492
+OKC,Oklahoma City Thunder,wilsodj01,dj-wilson,-2.649164369,12,105,0.01,0,0
+OKC,Oklahoma City Thunder,krejcvi01,vit-krejci,-1.208236948,NA,NA,0,0,0
+ORL,Orlando Magic,suggsja01,jalen-suggs,-1.795992264,NA,NA,0,0.11,2165
+ORL,Orlando Magic,okekech01,chuma-okeke,-0.275413829,45,1133,0.07,0.1,1870
+ORL,Orlando Magic,bambamo01,mo-bamba,-1.51452241,46,725,0.04,0.09,1771
+ORL,Orlando Magic,cartewe01,wendell-carter-jr,-0.906719714,32,792,0.05,0.09,1771
+ORL,Orlando Magic,isaacjo01,jonathan-isaac,1.172236372,NA,NA,0,0.09,1673
+ORL,Orlando Magic,anthoco01,cole-anthony,-3.123191956,47,1273,0.07,0.07,1279
+ORL,Orlando Magic,fultzma01,markelle-fultz,-2.906159997,8,215,0.01,0.06,1181
+ORL,Orlando Magic,harriga01,gary-harris,-1.786951384,20,499,0.03,0.06,1082
+ORL,Orlando Magic,lopezro01,robin-lopez,-3.584939395,71,1354,0.08,0.06,1082
+ORL,Orlando Magic,rosste01,terrence-ross,-0.969056695,46,1347,0.08,0.06,1181
+ORL,Orlando Magic,wagnemo01,moritz-wagner,-0.491077541,9,61,0,0.05,984
+ORL,Orlando Magic,hamptrj01,rj-hampton,-3.920139618,25,233,0.01,0.05,984
+ORL,Orlando Magic,wagnefr01,franz-wagner,-1.159782702,NA,NA,0,0.05,1023
+ORL,Orlando Magic,mooreet01,etwaun-moore,-1.799056213,27,389,0.02,0.04,748
+ORL,Orlando Magic,cartemi01,michael-carter-williams,0.289320701,31,800,0.05,0.03,492
+ORL,Orlando Magic,schofad01,admiral-schofield,-2.208467571,NA,NA,0,0.02,394
+ORL,Orlando Magic,harriga01,gary-harris,-1.786951384,19,581,0.03,0,0
+ORL,Orlando Magic,dowtije01,jeff-dowtin,-2.495308693,NA,NA,0,0,0
+ORL,Orlando Magic,graveha01,hassani-gravett,-2.181819882,NA,NA,0,0,0
+PHI,Philadelphia 76ers,greenda02,danny-green,2.85853976,69,1934,0.11,0.11,2106
+PHI,Philadelphia 76ers,harrito02,tobias-harris,0.399737224,62,2014,0.12,0.11,2204
+PHI,Philadelphia 76ers,curryse01,seth-curry,-0.542508959,57,1638,0.1,0.1,1948
+PHI,Philadelphia 76ers,maxeyty01,tyrese-maxey,-1.865395239,61,935,0.05,0.09,1673
+PHI,Philadelphia 76ers,embiijo01,joel-embiid,6.505142411,51,1585,0.09,0.09,1805
+PHI,Philadelphia 76ers,miltosh01,shake-milton,-1.017953805,63,1461,0.09,0.09,1664
+PHI,Philadelphia 76ers,drumman01,andre-drummond,1.371230316,21,520,0.03,0.08,1476
+PHI,Philadelphia 76ers,thybuma01,matisse-thybulle,2.633504212,65,1298,0.08,0.08,1478
+PHI,Philadelphia 76ers,korkmfu01,furkan-korkmaz,1.140814978,55,1062,0.06,0.07,1417
+PHI,Philadelphia 76ers,niangge01,georges-niang,-1.078154231,72,1154,0.07,0.05,984
+PHI,Philadelphia 76ers,simmobe01,ben-simmons,3.11511101,58,1877,0.11,0.05,984
+PHI,Philadelphia 76ers,bassech01,charles-bassey,-1.686453313,NA,NA,0,0.05,984
+PHI,Philadelphia 76ers,harrish01,shaquille-harrison,-0.170550846,17,277,0.02,0.02,295
+PHI,Philadelphia 76ers,joeis01,isaiah-joe,0.483930544,41,383,0.02,0.02,436
+PHI,Philadelphia 76ers,reedpa01,paul-reed,-1.663298191,26,177,0.01,0.01,202
+PHI,Philadelphia 76ers,sprinja01,jaden-springer,-3.183287622,NA,NA,0,0,20
+PHO,Phoenix Suns,bridgmi01,mikal-bridges,2.484826678,72,2348,0.14,0.14,2674
+PHO,Phoenix Suns,bookede01,devin-booker,2.3657997,67,2270,0.13,0.13,2585
+PHO,Phoenix Suns,aytonde01,deandre-ayton,2.085627817,69,2115,0.12,0.12,2409
+PHO,Phoenix Suns,paulch01,chris-paul,2.886238973,70,2199,0.13,0.1,1909
+PHO,Phoenix Suns,crowdja01,jae-crowder,1.34632707,60,1648,0.1,0.09,1840
+PHO,Phoenix Suns,saricda01,dario-saric,-1.320743168,50,871,0.05,0.08,1476
+PHO,Phoenix Suns,payneca01,cameron-payne,2.52950858,60,1079,0.06,0.08,1555
+PHO,Phoenix Suns,johnsca02,cameron-johnson,0.234379868,60,1437,0.08,0.08,1637
+PHO,Phoenix Suns,shamela01,landry-shamet,-0.665506695,61,1403,0.08,0.06,1181
+PHO,Phoenix Suns,mcgeeja01,javale-mcgee,-1.306755767,33,503,0.03,0.04,787
+PHO,Phoenix Suns,smithja04,jalen-smith,-2.287646241,27,156,0.01,0.03,492
+PHO,Phoenix Suns,naderab01,abdel-nader,-1.988432786,24,355,0.02,0.02,404
+PHO,Phoenix Suns,paytoel01,elfrid-payton,-1.759772377,63,1484,0.09,0.02,394
+PHO,Phoenix Suns,kaminfr01,frank-kaminsky,-1.296693522,47,715,0.04,0.01,197
+PHO,Phoenix Suns,randlch01,chasson-randle,-3.923080122,41,837,0.05,0.01,138
+POR,Portland Trail Blazers,lillada01,damian-lillard,4.958305628,67,2398,0.14,0.14,2731
+POR,Portland Trail Blazers,mccolcj01,cj-mccollum,1.985014588,47,1600,0.09,0.13,2460
+POR,Portland Trail Blazers,covinro01,robert-covington,2.597734219,70,2243,0.13,0.13,2555
+POR,Portland Trail Blazers,powelno01,norman-powell,-0.232288209,42,1277,0.07,0.11,2066
+POR,Portland Trail Blazers,nurkiju01,jusuf-nurkic,2.200595343,37,880,0.05,0.1,1988
+POR,Portland Trail Blazers,nancela02,larry-nance-jr,0.409021087,35,1091,0.06,0.1,1870
+POR,Portland Trail Blazers,simonan01,anfernee-simons,-2.087738102,64,1104,0.06,0.07,1378
+POR,Portland Trail Blazers,littlna01,nassir-little,-3.14219469,48,640,0.04,0.06,1228
+POR,Portland Trail Blazers,zelleco01,cody-zeller,-0.15731488,48,1005,0.06,0.06,1145
+POR,Portland Trail Blazers,mclembe01,ben-mclemore,-1.966426034,32,537,0.03,0.05,984
+POR,Portland Trail Blazers,snellto01,tony-snell,-2.88104642,47,992,0.06,0.02,394
+POR,Portland Trail Blazers,smithde03,dennis-smith-jr,1.277957273,3,28,0,0.01,276
+POR,Portland Trail Blazers,cookqu01,quinn-cook,-2.823251476,7,95,0.01,0.01,177
+POR,Portland Trail Blazers,ellebcj01,cj-elleby,-1.682233829,30,192,0.01,0.01,219
+POR,Portland Trail Blazers,pattepa01,patrick-patterson,-2.258363403,38,582,0.03,0.01,177
+POR,Portland Trail Blazers,chrisma01,marquese-chriss,-2.196893066,2,27,0,0,31
+SAC,Sacramento Kings,hieldbu01,buddy-hield,1.017460605,71,2433,0.14,0.14,2771
+SAC,Sacramento Kings,barneha02,harrison-barnes,-0.803128927,58,2102,0.12,0.12,2303
+SAC,Sacramento Kings,foxde01,deaaron-fox,1.694432355,58,2036,0.12,0.12,2319
+SAC,Sacramento Kings,baglema01,marvin-bagley-iii,-1.838095548,43,1112,0.06,0.1,1870
+SAC,Sacramento Kings,halibty01,tyrese-haliburton,-0.149224184,58,1746,0.1,0.1,1989
+SAC,Sacramento Kings,holmeri01,richaun-holmes,0.858124533,61,1782,0.1,0.1,2030
+SAC,Sacramento Kings,mitchda01,davion-mitchell,-2.335507993,NA,NA,0,0.09,1673
+SAC,Sacramento Kings,daviste02,terence-davis,-0.768453149,27,581,0.03,0.08,1476
+SAC,Sacramento Kings,harklma01,maurice-harkless,-2.243070592,11,124,0.01,0.05,886
+SAC,Sacramento Kings,lenal01,alex-len,-1.435472004,57,903,0.05,0.05,1028
+SAC,Sacramento Kings,metuch01,chimezie-metu,-3.323435711,36,488,0.03,0.03,556
+SAC,Sacramento Kings,thomptr01,tristan-thompson,-2.027272277,54,1287,0.07,0.02,374
+SAC,Sacramento Kings,jonesda03,damian-jones,-3.501022484,14,94,0.01,0.01,98
+SAC,Sacramento Kings,ramseja01,jahmius-ramsey,-1.772622982,13,94,0.01,0.01,107
+SAC,Sacramento Kings,terryem01,emanuel-terry,-3.467952863,NA,NA,0,0.01,197
+SAS,San Antonio Spurs,murrade01,dejounte-murray,1.835435953,67,2139,0.12,0.12,2283
+SAS,San Antonio Spurs,poeltja01,jakob-poeltl,2.833337661,69,1845,0.11,0.11,2101
+SAS,San Antonio Spurs,whitede01,derrick-white,3.012678635,36,1064,0.06,0.1,1870
+SAS,San Antonio Spurs,johnske04,keldon-johnson,-1.787051518,69,1968,0.11,0.1,2047
+SAS,San Antonio Spurs,vassede01,devin-vassell,-0.695873716,62,1056,0.06,0.09,1673
+SAS,San Antonio Spurs,mcderdo01,doug-mcdermott,-2.657942839,66,1619,0.09,0.09,1673
+SAS,San Antonio Spurs,walkelo01,lonnie-walker-iv,-3.542521322,60,1522,0.09,0.09,1733
+SAS,San Antonio Spurs,forbebr01,bryn-forbes,-2.576152468,70,1354,0.08,0.06,1082
+SAS,San Antonio Spurs,colliza01,zach-collins,-1.638122304,NA,NA,0,0.06,1240
+SAS,San Antonio Spurs,bateske01,keita-bates-diop,-2.317625708,30,245,0.01,0.04,689
+SAS,San Antonio Spurs,youngth01,thaddeus-young,1.584711267,68,1652,0.1,0.04,787
+SAS,San Antonio Spurs,primojo01,joshua-primo,-5.088830104,NA,NA, -   ,0.04,787
+SAS,San Antonio Spurs,aminual01,al-farouq-aminu,-1.519467815,6,67,0,0.03,590
+SAS,San Antonio Spurs,jonestr01,tre-jones,-3.625336049,37,269,0.02,0.03,492
+SAS,San Antonio Spurs,eubandr01,drew-eubanks,-2.19255723,54,755,0.04,0.02,433
+SAS,San Antonio Spurs,landajo01,jock-landale,-3.233723283,NA,NA,0,0.01,197
+TOR,Toronto Raptors,trentga02,gary-trent-jr,-1.084607627,17,540,0.03,0.11,2066
+TOR,Toronto Raptors,vanvlfr01,fred-vanvleet,3.626252044,52,1899,0.11,0.11,2224
+TOR,Toronto Raptors,anunoog01,og-anunoby,1.895403713,43,1433,0.08,0.1,1929
+TOR,Toronto Raptors,dragigo01,goran-dragic,-1.077088982,50,1337,0.08,0.09,1771
+TOR,Toronto Raptors,siakapa01,pascal-siakam,1.000214329,56,2006,0.12,0.09,1771
+TOR,Toronto Raptors,achiupr01,precious-achiuwa,-1.573865201,61,737,0.04,0.08,1614
+TOR,Toronto Raptors,bouchch01,chris-boucher,1.515077703,60,1453,0.08,0.08,1574
+TOR,Toronto Raptors,barnesc01,scottie-barnes,-1.878808363,NA,NA,0,0.08,1476
+TOR,Toronto Raptors,birchkh01,khem-birch,-1.178572809,19,577,0.03,0.07,1417
+TOR,Toronto Raptors,mykhasv01,svi-mykhailiuk,-2.071402347,30,690,0.04,0.07,1378
+TOR,Toronto Raptors,flynnma01,malachi-flynn,0.040916362,47,928,0.05,0.07,1279
+TOR,Toronto Raptors,bongais01,isaac-bonga,-0.74462242,40,432,0.03,0.03,492
+TOR,Toronto Raptors,watanyu01,yuta-watanabe,-1.389270725,50,723,0.04,0.02,394
+TOR,Toronto Raptors,dekkesa01,sam-dekker,-1.746914337,NA,NA,0,0.02,295
+TOR,Toronto Raptors,birchkh01,khem-birch,-1.178572809,48,952,0.06,0,0
+TOR,Toronto Raptors,bantoda01,dalano-banton,-2.58072895,NA,NA,0,0,0
+UTA,Utah Jazz,mitchdo01,donovan-mitchell,2.858730749,53,1771,0.1,0.13,2460
+UTA,Utah Jazz,bogdabo02,bojan-bogdanovic,-1.811699338,72,2216,0.13,0.13,2524
+UTA,Utah Jazz,goberru01,rudy-gobert,5.439930173,71,2187,0.13,0.13,2491
+UTA,Utah Jazz,onealro01,royce-oneale,1.738216825,71,2241,0.13,0.13,2552
+UTA,Utah Jazz,clarkjo01,jordan-clarkson,1.011001126,68,1818,0.11,0.11,2071
+UTA,Utah Jazz,inglejo01,joe-ingles,0.621856292,67,1867,0.11,0.11,2126
+UTA,Utah Jazz,conlemi01,mike-conley,3.758895632,51,1498,0.09,0.1,1948
+UTA,Utah Jazz,gayru01,rudy-gay,-0.058050372,63,1358,0.08,0.08,1547
+UTA,Utah Jazz,pascher01,eric-paschall,-3.739766371,40,695,0.04,0.06,1181
+UTA,Utah Jazz,whiteha01,hassan-whiteside,-0.454834085,36,546,0.03,0.03,630
+UTA,Utah Jazz,azubuud01,udoka-azubuike,-1.282710408,15,57,0,0,65
+UTA,Utah Jazz,fittsma01,malik-fitts,-2.090384858,3,11,0,0,13
+UTA,Utah Jazz,hugheel01,elijah-hughes,-1.558058865,18,64,0,0,73
+WAS,Washington Wizards,bealbr01,bradley-beal,2.132459603,60,2147,0.12,0.12,2445
+WAS,Washington Wizards,hachiru01,rui-hachimura,-2.652108726,57,1797,0.1,0.1,1968
+WAS,Washington Wizards,dinwisp01,spencer-dinwiddie,-0.247290686,3,64,0,0.09,1771
+WAS,Washington Wizards,caldwke01,kentavious-caldwell-pope,-0.25766344,67,1902,0.11,0.09,1722
+WAS,Washington Wizards,kuzmaky01,kyle-kuzma,-2.270603727,68,1954,0.11,0.09,1771
+WAS,Washington Wizards,gaffoda01,daniel-gafford,1.526908552,23,408,0.02,0.08,1476
+WAS,Washington Wizards,bertada01,davis-bertans,1.176915944,57,1464,0.09,0.08,1476
+WAS,Washington Wizards,avdijde01,deni-avdija,-0.491035088,54,1257,0.07,0.07,1432
+WAS,Washington Wizards,holidaa01,aaron-holiday,-0.772595592,66,1176,0.07,0.07,1339
+WAS,Washington Wizards,bryanth01,thomas-bryant,-2.409540448,10,271,0.02,0.06,1082
+WAS,Washington Wizards,harremo01,montrezl-harrell,1.544721124,69,1580,0.09,0.06,1082
+WAS,Washington Wizards,kispeco01,corey-kispert,-2.594568683,NA,NA,0,0.06,1181
+WAS,Washington Wizards,netora01,raul-neto,1.171621434,64,1403,0.08,0.02,394
+WAS,Washington Wizards,toddis01,isaiah-todd,-3.623174727,NA,NA,0,0.02,295
+WAS,Washington Wizards,gillan01,anthony-gill,-2.073255617,26,218,0.01,0.01,248
+WAS,Washington Wizards,goodwjo01,jordan-goodwin,-2.209699642,NA,NA,0,0,0
